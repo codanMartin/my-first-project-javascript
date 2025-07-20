@@ -14,7 +14,7 @@ const defaultProducts = [
 ];
 
 /**
- * Represents a corner shop with a list of products.
+ * Represents a corner shop with a list of products and simple methods.
  */
 class CornerShop {
     /**
